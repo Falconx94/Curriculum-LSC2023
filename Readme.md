@@ -9,3 +9,6 @@ Braulio Rodriguez
 
 ## Secundaria
 Secundaria Tecnica 211
+
+## Bachillerato
+Centro de Estudios Tecnológico Industrial y de Servicios 108
