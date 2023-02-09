@@ -6,3 +6,6 @@ Colegio Cultura y Patria
 
 ## Primaria
 Braulio Rodriguez
+
+## Secundaria
+Secundaria Tecnica 211
