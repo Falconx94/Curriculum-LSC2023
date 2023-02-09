@@ -4,3 +4,5 @@
 ## Kinder o Preescolar
 Colegio Cultura y Patria
 
+## Primaria
+Braulio Rodriguez
